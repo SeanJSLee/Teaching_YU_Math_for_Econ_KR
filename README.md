@@ -3,7 +3,10 @@
 [행렬](LinearAlgebra.pdf)
 
 
-[극한](differentiation_part1_limits.pdf)
+<!-- [극한](differentiation_part1_limits.pdf)
 
 
-[미분](differentiation_part2.pdf)
+[미분](differentiation_part2.pdf) -->
+
+
+![image info](qr-code.png)
