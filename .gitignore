@@ -1,3 +1,4 @@
+*.gitignore
 *.aux
 *.log
 *.fdb_latexmk
