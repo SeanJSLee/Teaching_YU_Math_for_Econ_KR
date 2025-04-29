@@ -5,6 +5,8 @@
 
 ### 🪄 [강의평가 바로가기](https://docs.google.com/forms/d/e/1FAIpQLSc7EUraYoKooXCu_Vzh-HTljYHvz4-x8A69LS1J9gyoCDzx8A/viewform?usp=dialog) 🪄
 
+😸강의평가를 받고 있어요😸
+
 <br>
 
 ### 📨 [seanjslee@yu.ac.kr](mailto:seanjslee@yu.ac.kr)
