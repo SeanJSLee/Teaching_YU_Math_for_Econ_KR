@@ -3,11 +3,11 @@
 
 <!-- [강의평가](https://docs.google.com/forms/d/e/1FAIpQLSc7EUraYoKooXCu_Vzh-HTljYHvz4-x8A69LS1J9gyoCDzx8A/viewform?usp=dialog) -->
 
-<a href="mailto:seanjslee@yu.ac.kr" style="color:blue; font-size:24px; font-weight:bold;">  🪄강의평가 바로가기 🪄</a>
+🪄 <a href="mailto:seanjslee@yu.ac.kr" style="color:blue; font-size:24px; font-weight:bold;">  강의평가 바로가기 </a>🪄
 
 <br></br>
 
-<a href="mailto:seanjslee@yu.ac.kr" style="color:teal; font-size:24px; font-weight:bold;">궁금한거 물어보기: 📨 seanjslee@yu.ac.kr</a>
+📨 <a href="mailto:seanjslee@yu.ac.kr" style="color:teal; font-size:24px; font-weight:bold;">seanjslee@yu.ac.kr</a>
 
 <br></br>
 
