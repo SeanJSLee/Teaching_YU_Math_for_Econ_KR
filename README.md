@@ -1,7 +1,7 @@
 # 수리경제학 - 행렬, 미분
 
 
-<!-- ### [Field Experiment 4/17](https://docs.google.com/forms/d/e/1FAIpQLSes_A_p-Ec-6j1BaxjPNRNKfpkx7v0CaKGxHRmWFKgilRY5XQ/viewform?usp=dialog) -->
+### [강의평가](https://docs.google.com/forms/d/e/1FAIpQLSc7EUraYoKooXCu_Vzh-HTljYHvz4-x8A69LS1J9gyoCDzx8A/viewform?usp=dialog)
 
 
 <a href="mailto:seanjslee@yu.ac.kr" style="color:red; font-size:24px; font-weight:bold;">궁금한거 물어보기: seanjslee@yu.ac.kr</a>
