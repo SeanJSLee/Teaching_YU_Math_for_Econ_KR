@@ -1,15 +1,16 @@
 # 수리경제학 - 행렬, 미분
-<br></br>
-
+<br>
+<!-- Original 강의평가 link (commented out) -->
 <!-- [강의평가](https://docs.google.com/forms/d/e/1FAIpQLSc7EUraYoKooXCu_Vzh-HTljYHvz4-x8A69LS1J9gyoCDzx8A/viewform?usp=dialog) -->
 
-🪄 <a href="mailto:seanjslee@yu.ac.kr" style="color:blue; font-size:24px; font-weight:bold;">  강의평가 바로가기 </a>🪄
+### 🪄 [강의평가 바로가기](https://docs.google.com/forms/d/e/1FAIpQLSc7EUraYoKooXCu_Vzh-HTljYHvz4-x8A69LS1J9gyoCDzx8A/viewform?usp=dialog) 🪄
 
-<br></br>
+<br>
 
-📨 <a href="mailto:seanjslee@yu.ac.kr" style="color:teal; font-size:24px; font-weight:bold;">seanjslee@yu.ac.kr</a>
+### 📨 [seanjslee@yu.ac.kr](mailto:seanjslee@yu.ac.kr)
 
-<br></br>
+<br>
+
 
 ## 행렬
 
